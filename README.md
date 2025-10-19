@@ -430,14 +430,6 @@ All sub-wallets, dev wallet, and funder wallet are automatically excluded.
 - Run CREATE LOOKUP TABLE mode again
 - Ensure you're using the correct mode for token stage (pre/post migration)
 
-## 🤝 Community and Support
-
-Join our thriving community of traders and launchers:
-
-- **Discord**: [discord.gg/solana-scripts](https://discord.gg/solana-scripts)
-- **Telegram**: @benorizz0
-
-
 Our community features:
 - Daily strategy discussions
 - Launch coordination groups
